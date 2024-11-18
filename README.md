@@ -10,5 +10,4 @@ Cara kerja program:
 4. Program terus meminta input data hingga pengguna mengetik t (tidak) saat diminta untuk menambahkan data lagi.
 5. Setelah selesai, program menampilkan daftar data mahasiswa dalam format tabel.
 
-Flowchart program:
 ![Screenshot (51)](https://github.com/user-attachments/assets/1e6beef0-bb7d-4f73-b0c0-c035af0458de)
